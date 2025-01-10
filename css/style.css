@@ -11,3 +11,7 @@
   --azul-medio: #7ba4fc;
   --azul-claro: #96b9fd;
 }
+
+#logo {
+  width: 145px;
+}
