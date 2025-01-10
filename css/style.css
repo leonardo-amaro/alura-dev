@@ -12,6 +12,19 @@
   --azul-claro: #96b9fd;
 }
 
+body {
+  background-color: var(--background);
+}
+
 #logo {
   width: 145px;
+}
+
+#barra-pesquisa {
+  background-color: rgba(255, 255, 255, 0.16);
+  color: white;
+  width: 752px;
+  padding: 1rem;
+  border-style: none;
+  border-radius: 8px;
 }
