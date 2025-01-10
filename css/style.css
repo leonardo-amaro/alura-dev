@@ -16,6 +16,12 @@ body {
   background-color: var(--background);
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 32px;
+}
+
 #logo {
   width: 145px;
 }
