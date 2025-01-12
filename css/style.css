@@ -19,11 +19,11 @@ body {
 header {
   display: flex;
   justify-content: space-between;
-  margin-top: 32px;
+  margin: 32px;
 }
 
 #logo {
-  width: 145px;
+  height: 34.05px;
 }
 
 #barra-pesquisa {
@@ -37,4 +37,15 @@ header {
 
 #perfil {
   width: 106px;
+}
+
+main {
+  margin: 0 32px;
+}
+
+nav:first-child {
+  color: white;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 40%;
 }
